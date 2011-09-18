@@ -1,0 +1,8 @@
+Google+-- is a Greasemonkey script as well as a Chrome extension that removes the Google+ shimmering icons from Google search results.
+
+In Firefox, you must install Greasemonkey first:
+https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+
+In Chrome or in Firefox with Greasemonkey installed, install it by loading:
+https://github.com/micahflee/google-plus-minus-minus/raw/master/google+--.user.js
+
